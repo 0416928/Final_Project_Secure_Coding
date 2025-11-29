@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    background-color: rgb(60, 89, 133);
+    color: white;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.selection {
+    text-align: center;
+    font-weight: bold;
+}
+
+#photo-gallery {
+    font-weight: 700;
+    color: rgb(57, 51, 51);
+}
+
+#photo-gallery img {
+    width: 70%;
+    height: auto;
+    max-width: 500px;
+    margin: 10px;
+}
+
+#photo-gallery h2 {
+    text-align: center;
+}
+
+#captionId {
+    text-align: center;
+}
+
+
+.error-message {
+    color: red;
+}
+
